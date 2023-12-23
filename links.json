@@ -1,0 +1,106 @@
+{
+            "bookmarks" : [
+              {
+                "category": "Type",
+                "links": [
+                  {
+                    "name": "google",
+                    "url": "https://google.com",
+                    "target": "_blank"
+                  },
+                  {
+                    "name": "google",
+                    "url": "https://google.com",
+                    "target": "_blank"
+                  },
+                  {
+                    "name": "google",
+                    "url": "https://google.com",
+                    "target": "_blank"
+                  }
+                ]
+              },
+              {
+                "category": "Mail",
+                "links": [
+                  {
+                    "name": "google",
+                    "url": "https://google.com",
+                    "target": "_blank"
+                  },
+                  {
+                    "name": "google",
+                    "url": "https://google.com",
+                    "target": "_blank"
+                  }
+                ]
+              },
+              {
+                "category": "Media",
+                "links": [
+                  {
+                    "name": "google",
+                    "url": "https://google.com"
+                  },
+                  {
+                    "name": "google",
+                    "url": "https://google.com"
+                  }
+                ]
+              },
+              {
+                "category": "Printer",
+                "links": [
+                  {
+                    "name": "google",
+                    "url": "https://google.com"
+                  },
+                  {
+                    "name": "google",
+                    "url": "https://google.com"
+                  },
+                  {
+                    "name": "google",
+                    "url": "https://google.com"
+                  }
+                ]
+              },
+              {
+                "category": "google",
+                "links": [
+                  {
+                    "name": "google",
+                    "url": "https://google.com"
+                  },
+                  {
+                    "name": "google",
+                    "url": "https://google.com"
+                  },
+                  {
+                    "name": "google",
+                    "url": "https://google.com"
+                  },
+                  {
+                    "name": "google",
+                    "url": "https://google.com"
+                  }
+                ]
+              },
+              {
+                "category": "Other",
+                "links": [
+                  {
+                    "name": "google",
+                    "url": "https://google.com"
+                  },                  
+                  {
+                    "name": "google",
+                    "url": "https://google.com"
+                  }
+                ]
+              }
+            ]
+        }
+
+
+         

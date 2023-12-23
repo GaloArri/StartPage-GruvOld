@@ -1,0 +1,21 @@
+{
+    "apps" : [
+        {"name":"google","url":"google.com","icon":"whatsapp", "target": "_blank"},
+        {"name":"google","url":"google.com","icon":"twitter", "target": "_blank"},
+        {"name":"google","url":"google.com","icon":"instagram", "target": "_blank"},
+        {"name":"google","url":"google.com","icon":"dots-horizontal-circle-outline", "target": "_blank"},
+
+        {"name":"google","url":"google.com","icon":"hazard-lights", "target": "_blank"},
+        {"name":"google","url":"youtube.com","icon":"youtube", "target": "_blank"},
+        {"name":"google","url":"twitch.com","icon":"twitch", "target": "_blank"},
+        {"name":"google","url":"open.spotify.com","icon":"spotify", "target": "_blank"},
+
+        {"name":"google","url":"google.com","icon":"movie-play-outline", "target": "_blank"},
+        {"name":"google","url":"google.com","icon":"movie-play", "target": "_blank"},
+        {"name":"google","url":"google.com","icon":"cloud-download-outline", "target": "_blank"},
+        {"name":"google","url":"google.com","icon":"closed-caption-outline", "target": "_blank"},
+
+        {"name":"google","url":"chat.openai.com","icon":"decagram-outline", "target": "_blank"},
+        {"name":"google","url":"google.com","icon":"skull-outline", "target": "_blank"}
+    ]
+}
